@@ -23,7 +23,9 @@ Requirements
 
 PartKeepr needs:
 
-* PHP 5.6 and up. Some distributions don't have PHP 5.6 yet, but [provide packages](documentation/installation/php56.md). 
+* PHP between 5.6 and 7.2. Some distributions don't have PHP 5.6 yet, but [provide packages](documentation/installation/php56.md). 
+* PHP 7.2 currently needs a small workaround (see https://github.com/partkeepr/PartKeepr/issues/905)
+* PHP 7.3 is currently not supported (see https://github.com/partkeepr/PartKeepr/issues/1020)
 * A MySQL or PostgreSQL database
 
 Installation
