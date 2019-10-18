@@ -12,11 +12,10 @@ designed for electronic components.
 
 PartKeepr is written in **PHP** and using the [**Symfony2**](http://symfony.com) framework.
 
-Demo Site
----------
+Warning
+-------
 
-To test everything which has been written so far, please visit http://demo.partkeepr.org for a demo which is built from
-the git sources once an hour.
+Partkeepr is currently unmaintained and dependend on frameworks and libraries known to be outdated, insecure and a bad idea to run on a webserver. Please DO NOT use PartKeepr on a webserver reachable over the internet.
 
 Requirements
 ------------
